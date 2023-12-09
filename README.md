@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Current Stats
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
-</p>
+
 
 
 Technologies that I know
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,nodejs,express,mongodb" />
   </a>
