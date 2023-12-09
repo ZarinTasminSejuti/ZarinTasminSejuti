@@ -35,3 +35,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,git,github,nodejs,express,mongodb" />
   </a>
 </p>
+
+**Languages I used most:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarinTasminSejuti&layout=compact)
