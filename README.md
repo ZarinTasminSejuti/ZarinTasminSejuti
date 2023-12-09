@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  **Current Stats:**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=transparent&card_width=492)](https://git.io/streak-stats)
 
 
  **Reach Me Out:**
