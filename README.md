@@ -1,3 +1,6 @@
+![Your Masterhead]([URL_TO_YOUR_IMAGE](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif))
+
+
 ### Hi everyone 👋
 I am a 💻 Full Stack Developer | MERN Stack Enthusiast 🌐
 
@@ -17,6 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
+
 
  **Current Stats:**
 
