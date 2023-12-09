@@ -18,16 +18,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Current Stats
+ **Current Stats:**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
 
+📫 **Reach Me Out:**
+- 📧 Email: zts-7234@hotmail.com
+- 💬 LinkedIn: ([https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/))
 
 
-Technologies that I know
+
+**Technologies that I know:**
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,git,github,nodejs,express,mongodb" />
   </a>
 </p>
