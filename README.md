@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
+
+Technologies that I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,vite,nodejs,express,mongodb" />
+  </a>
+</p>
