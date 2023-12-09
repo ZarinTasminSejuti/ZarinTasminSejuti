@@ -1,4 +1,4 @@
-![Your Masterhead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_620_1280/0/1651835064260?e=1707350400&v=beta&t=w83N9HHgY20_B81pDNZVnFggqpG64yiV8GOCzFpz_7A)
+![Your Masterhead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_720_1280/0/1651835064260?e=1707350400&v=beta&t=w83N9HHgY20_B81pDNZVnFggqpG64yiV8GOCzFpz_7A)
 
 ## Hi everyone 👋
 I am a 💻 Full Stack Developer | MERN Stack Enthusiast 🌐
