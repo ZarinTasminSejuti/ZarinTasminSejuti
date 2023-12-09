@@ -1,7 +1,5 @@
 
-
-
-### Hi everyone 👋
+## Hi everyone 👋
 I am a 💻 Full Stack Developer | MERN Stack Enthusiast 🌐
 
 Passionate about web applications with the MERN (MongoDB, Express.js, React, Node.js) stack. Transforming ideas into scalable, user-centric web experiences. Constantly evolving and embracing the ever-changing tech landscape. Let's code, innovate, and build a digital future together! 🚀✨
