@@ -1,4 +1,4 @@
-![Your Masterhead]([URL_TO_YOUR_IMAGE](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif))
+![Your Masterhead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
 
 ### Hi everyone 👋
