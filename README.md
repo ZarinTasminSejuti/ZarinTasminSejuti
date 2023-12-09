@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 📫 **Reach Me Out:**
 - 📧 Email: zts-7234@hotmail.com
-- 💬 LinkedIn: ([https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/))
+- 💬 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/))
 
 
 
