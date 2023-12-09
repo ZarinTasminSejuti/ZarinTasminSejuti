@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
 
-📫 **Reach Me Out:**
-- 📧 Email: zts-7234@hotmail.com
+
+- 📫 How to reach me **zts-7234@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 - 💬 LinkedIn: (https://www.linkedin.com/in/YourLinkedInProfile/)
 
 
