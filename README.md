@@ -22,6 +22,6 @@ Technologies that I know
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,vite,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,nodejs,express,mongodb" />
   </a>
 </p>
