@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 
 
  **Current Stats:**
