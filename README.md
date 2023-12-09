@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+Current Stats
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=merko&card_width=492)](https://git.io/streak-stats)
+</p>
+
 
 Technologies that I know
 
