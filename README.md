@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  **Reach Me Out:**
 
 - 📫 Email: **zts-7234@hotmail.com**
-- 💬 LinkedIn: **https://www.linkedin.com/in/YourLinkedInProfile/**
+- 💬 LinkedIn: **https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/**
 
 
 **Technologies that I know:**
