@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
  **Reach Me Out:**
  
-[![Outlook](OUTLOOK_ICON_URL)](mailto:zts-7234@hotmail.com "Email me")
+[![Email](EMAIL_ICON_URL)](mailto:zts-7234@hotmail.com "Email me")
+
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/ "Connect with me on LinkedIn")
 
 
