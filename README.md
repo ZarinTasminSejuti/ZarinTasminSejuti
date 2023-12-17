@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
  **Reach Me Out:**
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)][(https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/)]
 - 📫 Email: **zts-7234@hotmail.com**
 - 💬 LinkedIn: **https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/**
 
