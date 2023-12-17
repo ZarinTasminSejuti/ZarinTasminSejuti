@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=algolia&card_width=492)](https://git.io/streak-stats)
 
- **Reach Me Out:**
  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/ "Connect with me on LinkedIn")
+ **Reach Me Out at** [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/ "Connect with me on LinkedIn")
 
 
 **Technologies that I know:**
