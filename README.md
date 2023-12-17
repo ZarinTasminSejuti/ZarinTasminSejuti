@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
  **Reach Me Out:**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)][(https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/)]
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/ "Connect with me on LinkedIn")
 - 📫 Email: **zts-7234@hotmail.com**
 - 💬 LinkedIn: **https://www.linkedin.com/in/zarin-tasmin-sejuti-58bb809b/**
 
