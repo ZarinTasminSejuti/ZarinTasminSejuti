@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=algolia&card_width=492)](https://git.io/streak-stats)
+
 - ⚡ Fun fact: ...
 -->
 
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
  **Current Stats:**
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZarinTasminSejuti&theme=algolia)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZarinTasminSejuti&theme=algolia&card_width=492)](https://git.io/streak-stats)
 
  
  **Connect With Me:** 
